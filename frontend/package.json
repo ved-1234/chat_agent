@@ -4,6 +4,6 @@
   "private": true,
   "scripts": {
     "build": "npm run build",
-    "start": "cd frontend && npm start"
+    "start": " npm start"
   }
 }
